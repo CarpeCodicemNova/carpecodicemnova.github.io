@@ -13,7 +13,6 @@
  }
  p {
   margin-bottom: 1.4em;
-  line-height: 1.6em;
  }
  header {
   width: 100%;
@@ -139,7 +138,7 @@
  footer {
   width: 100%;
   height: 200px;
-  background: #eee;
+  background: #a47764;
   margin-bottom: 100px;
   color: #f6e7e3;
   text-align: center;
