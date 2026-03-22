@@ -14,7 +14,7 @@
  header {
   width: 100%;
   height: 700px;
-  background: url('../assets/images/headerBkg.png');
+  background: url('../assets/images/bkg_new.png');
   padding: 50px 100px;
  }
   #logo {
@@ -42,13 +42,13 @@
   }
  main {
   width: 100%;
-  background: #00f;
+  background: #C19D96;
  }
   #about {
     width: 100%;
     min-height: 700px;
-    background: linear-gradient(to right, #0a2a88, #59cde9);
-    border-bottom: 1px solid #222;
+    background: linear-gradient(to right, #f6e7e3, #c19d96);
+    border-bottom: 1px solid #a47764;
     padding: 50px 100px;
   }
     #bioPic {
@@ -61,7 +61,7 @@
   #skills {
     width: 100%;
     background: linear-gradient(to right, #EF9393, #E17DC2, #998EE0, #43ADD0, #8BDEDA);
-    border-bottom: 1px solid #222;
+    border-bottom: 1px solid #a47764;
     padding: 50px 100px;
     text-align: center;
   }
@@ -70,7 +70,7 @@
       height: 300px;
       background: #777;
       color: #fff;
-      border: 1px solid #333;
+      border: 1px solid #a47764;
       border-radius: 8px;
       display: inline-block;
       margin: 25px;
@@ -92,7 +92,7 @@
     width: 100%;
     height: 700px;
     background: linear-gradient(to right, #493240, #ff0099);
-    border-bottom: 1px solid #222;
+    border-bottom: 1px solid #a47764;
     padding: 50px 100px;
   }
     #contactForm {
