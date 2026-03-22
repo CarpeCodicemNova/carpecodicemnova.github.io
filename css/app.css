@@ -6,13 +6,13 @@
   scroll-behavior: smooth;
  }
  body {
-  background: #fff;
+  background: #333;
   font-size: 1.6em;
-  color: #333;
+  color: #eee;
   font-weight: 600;
  }
  header {
-  width: 100%;
+  width: 150%;
   height: 700px;
   background: url('../assets/images/new_bkg_wider.png');
   padding: 50px 100px;
@@ -49,7 +49,7 @@
     min-height: 700px;
     background: linear-gradient(to right, #c5796d, #dbe6f6);
     border-bottom: 1px solid #a47764;
-    padding: 100px 100px;
+    padding: 50px 100px;
   }
     #bioPic {
       float: left;
