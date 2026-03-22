@@ -16,6 +16,7 @@
   height: 700px;
   background: url('../assets/images/bkg_new.png');
   padding: 50px 100px;
+  background-repeat: no-repeat;
  }
   #logo {
     width: 160px;
