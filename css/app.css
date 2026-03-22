@@ -42,14 +42,14 @@
   }
  main {
   width: 100%;
-  background: #C19D96;
+  background: #fff;
  }
   #about {
     width: 100%;
     min-height: 700px;
     background: linear-gradient(to right, #f6e7e3, #c19d96);
     border-bottom: 1px solid #a47764;
-    padding: 50px 150px;
+    padding: 100px 100px;
   }
     #bioPic {
       float: left;
@@ -62,7 +62,7 @@
     width: 100%;
     background: linear-gradient(to right, #e7d3cf, #c19d96, #a47764);
     border-bottom: 1px solid #a47764;
-    padding: 50px 150px;
+    padding: 100px 100px;
     text-align: center;
   }
     .skill {
@@ -93,7 +93,7 @@
     height: 700px;
     background: linear-gradient(to right, #c19d96, #e7d3cf, #fefdfd);
     border-bottom: 1px solid #a47764;
-    padding: 50px 150px;
+    padding: 100px 100px;
   }
     #contactForm {
       padding: 20px;
