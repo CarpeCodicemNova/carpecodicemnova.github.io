@@ -52,12 +52,11 @@
     padding: 50px 100px;
   }
     #bioPic {
-      float: none;
-      display: block;
+      float: left; 
       max-width: 420px;
       border-radius: 16px;
       border: 4px solid #fff;
-      margin: 100px 100px;
+      margin: 50px 500px;
     }
   #skills {
     width: 100%;
