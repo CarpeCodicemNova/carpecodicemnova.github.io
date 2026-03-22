@@ -12,9 +12,9 @@
   font-weight: 600;
  }
  header {
-  width: 125%;
+  width: 100%;
   height: 700px;
-  background: url('../assets/images/bkg_new.png');
+  background: url('../assets/images/new_bkg_wider.png');
   padding: 50px 100px;
  }
   #logo {
