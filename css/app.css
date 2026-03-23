@@ -63,6 +63,7 @@
    width: 100%;
    min-height: 700px;
    background: linear-gradient(to right, #0a2a88, #59cde9);
+   margin: 100px 50px 50px 50px
    border-bottom: 1px solid #333;
    padding: 50px 50px;
  }
