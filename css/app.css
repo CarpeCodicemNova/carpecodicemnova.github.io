@@ -62,7 +62,7 @@
  #about {
    width: 100%;
    min-height: 700px;
-   background: linear-gradient(to left, #0a2a88, #153185);
+   background: linear-gradient(to right, #0a2a88, #59cde9);
    border-bottom: 1px solid #333;
    padding: 50px 50px;
  }
